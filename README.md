@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
 ## 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiep274&theme=tokyonight&layout=compact&langs_count=6">
-<img src="https://github-readme-stats.vercel.app/api?username=Hiep274&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiep274&theme=tokyonight&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Hiep274&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true">
 
 ## ☎️ Reach me at
 
